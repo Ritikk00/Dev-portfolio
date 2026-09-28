@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ritik-singh-portfolio.onrender.com/sitemap.xml
