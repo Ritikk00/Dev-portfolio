@@ -3,8 +3,9 @@
 export const personalInfo = {
   name: "Ritik Singh",
   roles: [
-    "AI powered Full-stack Engineer.",
+    "Full-stack AI developer.",
     "Web Application Developer.",
+    "Generative AI Developer.",
     "Backend Developer.",
     "Frontend Developer."
   ],
